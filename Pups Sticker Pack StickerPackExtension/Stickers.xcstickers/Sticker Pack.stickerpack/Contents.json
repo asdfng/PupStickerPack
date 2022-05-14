@@ -8,7 +8,16 @@
   },
   "stickers" : [
     {
+      "filename" : "Sugar1.sticker"
+    },
+    {
       "filename" : "Scout1.sticker"
+    },
+    {
+      "filename" : "Sugar2.sticker"
+    },
+    {
+      "filename" : "Sugar3.sticker"
     }
   ]
 }
